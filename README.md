@@ -14,7 +14,7 @@ mark them **Complete**, and celebrate with stylish **toast notifications**. 🚀
 
 ## 🎬 Quick Preview
 
-![Ticket Dashboard Demo]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnltOXU3cDE0anl0djd6NXJjOHU5dmdocmlsZWVuZDRmZ2ZxemF3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3dmIwdDI5dnA0YXFqbDU0YW5qOW9ucDFxbWZjNzI2anlvazU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIYS6HTkZYlPMdgObv/giphy.gif))
+![Ticket Dashboard Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3dmIwdDI5dnA0YXFqbDU0YW5qOW9ucDFxbWZjNzI2anlvazU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIYS6HTkZYlPMdgObv/giphy.gif)
 
 ---
 
